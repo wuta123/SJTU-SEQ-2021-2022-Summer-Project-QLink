@@ -5,4 +5,3 @@ SJTU-SEQ-2021-2022-Summer-Project-QLink
 正常模式的编码主要在singleMode.cpp，对应的，答辩模式的代码主要在singleModet.cpp，连连看的算法实现也在singleModet.cpp
 
 本项目没有实现双人模式，仅供参考。
-![19BD4516](https://user-images.githubusercontent.com/101696416/230260930-7a372adb-9567-4608-99bc-57364f43a8d8.jpg) 
